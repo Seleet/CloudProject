@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace FreakyFashion.Contracts.Products.Requests;
+namespace CloudProject.Contracts.Products.Requests;
 
 public class CreateProductRequestDto
 {
